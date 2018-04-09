@@ -15,5 +15,9 @@
 
 ## Emoji
 
-Markdown supporte différents *emoji* que l'on peut retrouver [ici](www.emoji-cheat-sheet.com) !
+Markdown supporte différents *emoji* que l'on peut retrouver [ici](www.emoji-cheat-sheet.com)
+
+## Picture
 ![Yes We Code](https://octodex.github.com/images/baracktocat.jpg)
+
+![Octobi Wan Catnobi](https://octodex.github.com/images/octobiwan.jpg)
